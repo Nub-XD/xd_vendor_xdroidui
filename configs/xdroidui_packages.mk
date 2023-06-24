@@ -20,7 +20,6 @@ PRODUCT_PACKAGES += \
 
 # Apps
 PRODUCT_PACKAGES += \
-    Lawnchair \
     ThemePicker \
     GamingMode
 
